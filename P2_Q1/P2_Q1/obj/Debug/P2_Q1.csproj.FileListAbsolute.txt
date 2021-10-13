@@ -1,0 +1,7 @@
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\bin\Debug\P2_Q1.exe.config
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\bin\Debug\P2_Q1.exe
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\bin\Debug\P2_Q1.pdb
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\obj\Debug\P2_Q1.csprojAssemblyReference.cache
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\obj\Debug\P2_Q1.csproj.CoreCompileInputs.cache
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\obj\Debug\P2_Q1.exe
+C:\Users\sbk07\source\repos\P2_Q1\P2_Q1\obj\Debug\P2_Q1.pdb
